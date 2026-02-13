@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on personal projects (BI, Automation, and Website), refining my skills. Learning automation, using tools such as Apache Airflow, Docker, Python, Excel and Power BI.
+Atualmente, estou a trabalhar em projetos pessoais (BI, automação e website), aperfeiçoando as minhas competências. Estou a aprender automação, utilizando ferramentas como Apache Airflow, Docker, Python, Excel e Power BI.
 
 
 ## 🌐 Socials:
